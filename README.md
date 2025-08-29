@@ -8,10 +8,11 @@ with text files and archives for testing purposes.
 ## Features
 
 - Generates random folder structures with nested directories.
-- Creates text files with a "Hello World!" message.
+- Creates text files with a "Hello World!" message in the following formats: `DOC`, `DOCX`, `TXT`, `PDF`, `XLSX`, `PPTX`.
 - Creates archive files (`.zip`, `.tar`, `.gztar`).
 - Recursively populates all subdirectories with files.
 - Random filenames using Latin and Cyrillic characters, numbers, and symbols.
+
 
 ---
 
